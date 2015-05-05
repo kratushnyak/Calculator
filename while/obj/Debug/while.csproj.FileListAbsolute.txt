@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\while\while\bin\Debug\@while.exe.config
+c:\users\user\documents\visual studio 2012\Projects\while\while\bin\Debug\@while.exe
+c:\users\user\documents\visual studio 2012\Projects\while\while\bin\Debug\@while.pdb
+c:\users\user\documents\visual studio 2012\Projects\while\while\obj\Debug\while.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\while\while\obj\Debug\@while.exe
+c:\users\user\documents\visual studio 2012\Projects\while\while\obj\Debug\@while.pdb
